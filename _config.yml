@@ -50,3 +50,5 @@ exclude:
 webrick:
   headers:
     Cache-Control: "no-cache"
+# build
+destination: 'docs'

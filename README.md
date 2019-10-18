@@ -16,3 +16,9 @@ bundle install
 ```bash
 bundle exec jekyll serve
 ```
+
+## Build
+
+```bash
+bundle exec jekyll build
+```
